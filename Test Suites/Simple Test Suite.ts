@@ -15,6 +15,6 @@
       <guid>03f94c02-41ec-4634-93eb-6e78106f67b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sub Folder Lvl 01/Sub Folder Lvl 01 - Test Case 01</testCaseId>
+      <testCaseId>Test Cases/Sub Folder Lvl 01/Sub Folder Lvl 01 - Test Case 02</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

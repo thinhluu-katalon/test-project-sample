@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case 01</name>
+   <name>Sub Folder Lvl 01 - Test Case 02</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4724e4a0-2a7a-45fb-b6e9-0288fd98c356</testCaseGuid>
+   <testCaseGuid>03119504-b7a3-4164-ab52-ee40a61fc363</testCaseGuid>
 </TestCaseEntity>
