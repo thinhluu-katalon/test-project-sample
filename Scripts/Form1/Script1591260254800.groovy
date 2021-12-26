@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-test.s3.amazonaws.com/aut/html/form.html')
 
+WebUI.waitForPageLoad(30)
+
 WebUI.setText(findTestObject('Object Repository/Page_Demo AUT/input_First name_firstName'), 'First name')
 
 WebUI.setText(findTestObject('Object Repository/Page_Demo AUT/input_Last name_lastName'), 'Last name')
