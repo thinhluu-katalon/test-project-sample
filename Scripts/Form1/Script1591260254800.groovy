@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-test.s3.amazonaws.com/aut/html/form.html')
 
+WebUI.waitForPageLoad(30)
+
 WebUI.setText(findTestObject('Object Repository/Page_Demo AUT/input_First name_firstName'), 'First name')
 
 WebUI.setText(findTestObject('Object Repository/Page_Demo AUT/input_Last name_lastName'), 'Last name')
@@ -39,10 +41,10 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo AUT/input_Pas
 
 WebUI.setText(findTestObject('Object Repository/Page_Demo AUT/input_Company_company'), 'Company')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo AUT/select_DeveloperQAManagerTechnical Architec_7258a1'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo AUT/select_DeveloperQAManagerTechnical Architec_7258a1'),
     'QA', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo AUT/select_High salaryNice managerleaderExcelle_8daca8'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo AUT/select_High salaryNice managerleaderExcelle_8daca8'),
     'High salary', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Demo AUT/input'))
