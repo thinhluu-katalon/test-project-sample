@@ -11,10 +11,4 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>90448498-6c45-4828-b338-56a95c28e995</testSuiteGuid>
-   <testCaseLink>
-      <guid>03f94c02-41ec-4634-93eb-6e78106f67b9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Sub Folder Lvl 01/Sub Folder Lvl 01 - Test Case 01</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
