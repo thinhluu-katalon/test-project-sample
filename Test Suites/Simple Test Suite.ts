@@ -16,22 +16,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Form</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-   <guid>03f94c02-41ec-4634-93eb-6e78106f67b9</guid>
-   <isReuseDriver>false</isReuseDriver>
-   <isRun>true</isRun>
-   <testCaseId>Test Cases/Form1</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-   <guid>03f94c02-41ec-4634-93eb-6e78106f67b9</guid>
-   <isReuseDriver>false</isReuseDriver>
-   <isRun>true</isRun>
-   <testCaseId>Test Cases/Form2</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-   <guid>03f94c02-41ec-4634-93eb-6e78106f67b9</guid>
-   <isReuseDriver>false</isReuseDriver>
-   <isRun>true</isRun>
-   <testCaseId>Test Cases/Form3</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
