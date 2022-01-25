@@ -12,12 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>6a167ed7-3d57-4dda-a873-3cf3d1984c0f</testSuiteGuid>
    <testCaseLink>
-      <guid>8faf4820-10e2-42d5-a845-99a0b218f661</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Test.Case.121721a/Folder1.Folder2a/Form121721b</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>99febb4b-af00-4170-a552-2fab35627d6e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
