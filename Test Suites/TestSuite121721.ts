@@ -17,10 +17,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test.Case.121721a/Folder1.Folder2a/Form121721a</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>54cb1ed3-d24e-4c57-a446-d9a69189a43b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Test.Case.121721a/Folder3.Folder4a/Form121721ba</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
