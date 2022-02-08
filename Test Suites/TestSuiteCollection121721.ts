@@ -13,7 +13,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuite121721</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Test.Suite.1/Test.Suite.2/Test.Suite.3/Test.Suite.4/Test.Suite.5/Test.Suite.6/Test.Suite.7/Test.Suite.8/TestSuite121721</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -22,7 +22,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuite121721</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Test.Suite.1/Test.Suite.2/Test.Suite.3/Test.Suite.4/Test.Suite.5/Test.Suite.6/Test.Suite.7/Test.Suite.8/TestSuite121721</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
