@@ -15,4 +15,13 @@ build
 
 .project
 
+<<<<<<< HEAD
 .settings
+=======
+.settings
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+>>>>>>> 12f26a8d3a1edd47e6cf2d49ba9d2892a2b372c1
